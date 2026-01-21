@@ -1,4 +1,3 @@
-![Cisco logo](https://gmacs.co.uk/wp-content/uploads/2023/12/net-academy-logo.png)
 # Course : "Data Science Essentials with Python" (CISO Networking Academy)
 ## Table
 - [Guide an answers](#guide-and-answers)
