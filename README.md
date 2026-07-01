@@ -1,6 +1,6 @@
 # Course : "Data Science Essentials with Python" (CISCO Networking Academy)
 ## Table
-- [Guide an answers](#guide-and-answers)
+- [Guide and answers](#guide-and-answers)
 - [Download](#download)
 - [Road map](#road_map)
 
