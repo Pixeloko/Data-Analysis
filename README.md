@@ -1,4 +1,4 @@
-# Course : "Data Science Essentials with Python" (CISO Networking Academy)
+# Course : "Data Science Essentials with Python" (CISCO Networking Academy)
 ## Table
 - [Guide an answers](#guide-and-answers)
 - [Download](#download)
